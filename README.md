@@ -38,7 +38,7 @@ add_book()
 This function allows the user to add a new book to the database.  
 The user is prompted to enter the book's title, author, and quantity in stock.   
   
----------------------------------------------------------------------------------------------------------------  
+-------------------------------------------------------------------------------------------------------------    
 
 update_book()  
 
@@ -46,14 +46,14 @@ This function allows the user to update an existing book in the database.
 The user is shown a list of all the books in the database and prompted to enter the ID of the book to update.     
 The user can then update the book's title, author, and/or quantity in stock.   
   
----------------------------------------------------------------------------------------------------------------  
+-------------------------------------------------------------------------------------------------------------    
 
 delete_book()  
 
 This function allows the user to delete an existing book from the database.  
 The user is shown a list of all the books in the database and prompted to enter the ID of the book to delete.  
   
----------------------------------------------------------------------------------------------------------------  
+-------------------------------------------------------------------------------------------------------------    
   
 show_all_books()    
 
